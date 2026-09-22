@@ -1,4 +1,12 @@
-# Aula 09 — Teste de hipóteses
+# Aula 09, decidir sem provar
+
+O teste de hipóteses formaliza uma decisão sob incerteza, mas não produz
+prova: rejeita-se ou não se rejeita H0, nunca se demonstra sua verdade. Os
+erros Tipo I e Tipo II definem um compromisso estrutural entre falsos
+positivos e falsos negativos que nenhum desenho experimental elimina por
+completo, apenas redistribui. O p-valor formaliza a intensidade dessa
+incerteza residual, uma medida contínua de evidência contra H0, não a
+certeza binária que seu uso popular sugere.
 
 ## Conceito
 
