@@ -1,4 +1,12 @@
-# Aula 04 — Distribuições discretas e contínuas
+# Aula 04, disfarces do acaso
+
+Cada distribuição de probabilidade é um modelo paramétrico de um regime
+específico de aleatoriedade: Binomial para tentativas discretas
+independentes, Poisson para eventos raros num intervalo fixo, Exponencial
+para o tempo entre esses eventos sob taxa constante. A propriedade de
+ausência de memória da exponencial merece atenção particular, é a
+formalização de que sistemas sem desgaste acumulado não guardam histórico
+algum sobre o tempo já decorrido.
 
 ## Distribuições discretas
 
