@@ -1,4 +1,12 @@
-# Aula 07 — Correlação e regressão linear
+# Aula 07, a ilusão da causa
+
+Correlação mede covariação linear entre duas variáveis; não estabelece,
+por si só, relação causal. A distinção humeana entre constância de
+associação e necessidade causal permanece irredutível. O exemplo canônico
+do sorvete e dos afogamentos ilustra confundimento por variável latente
+(a temperatura): a regressão linear formaliza a associação em modelo
+preditivo, mas o ajuste de mínimos quadrados nunca prova mecanismo, apenas
+descreve tendência sob as observações disponíveis.
 
 ## Correlação
 
