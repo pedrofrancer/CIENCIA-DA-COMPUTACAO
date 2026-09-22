@@ -1,4 +1,11 @@
-# Aula 01 — Apresentação da disciplina
+# Aula 01, o protocolo antes da dúvida
+
+Toda disciplina que pretende lidar com a incerteza começa, paradoxalmente,
+por um documento de certezas administrativas: ementa, bibliografia, datas
+de avaliação. É o paradoxo fundacional do método científico, a
+epistemologia da dúvida exige, para se instituir, um protocolo rígido.
+Antes de qualquer inferência sobre o desconhecido, negocia-se primeiro o
+conhecido: o que será cobrado, e quando.
 
 Disciplina: Estatística Para Computação. Docente: Prof. Dr. Cahue Sbrana.
 
