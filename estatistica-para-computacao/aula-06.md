@@ -1,4 +1,12 @@
-# Aula 06 — Inferência estatística
+# Aula 06, inferir é dar um passo no escuro
+
+Inferência estatística é o procedimento formal de generalizar de uma
+amostra finita para uma população que jamais será observada por completo,
+o problema da indução, tratado com aparato matemático em vez de resolvido.
+Estimação pontual e intervalar, modelos paramétricos e não-paramétricos, e
+o Método dos Mínimos Quadrados são diferentes estratégias de compromisso
+entre a quantidade de suposições assumidas e a precisão das conclusões
+obtidas.
 
 ## Conceito
 
