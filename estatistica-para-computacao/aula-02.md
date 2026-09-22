@@ -1,4 +1,12 @@
-# Aula 02 — Fundamentos: história, dados, tendência central e dispersão
+# Aula 02, a aritmética do controle
+
+A estatística nasce na aritmética política do século XVII, contagem de
+súditos, tributos e efetivos militares, não na busca desinteressada pela
+verdade. Essa genealogia importa, porque toda medida de tendência central
+carrega o mesmo projeto original: reduzir a variabilidade de um sistema
+complexo a um único número administrável. Média, mediana e moda são três
+estimadores distintos do mesmo ponto de referência, cada um com seu próprio
+regime de sensibilidade a valores extremos; nenhum deles é neutro.
 
 ## História e contexto
 
