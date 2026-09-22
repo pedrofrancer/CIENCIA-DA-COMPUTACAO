@@ -1,4 +1,13 @@
-# Aula 08 — Regressão não linear
+# Aula 08, o que resiste à reta
+
+A maior parte dos processos naturais não é linear: crescimento
+populacional, cinética química, curvas de aquecimento seguem regimes de
+potência, exponenciais ou logarítmicos, com taxas de variação que mudam ao
+longo do domínio. A linearização por transformação logarítmica não altera
+o fenômeno, apenas reprojeta o espaço de observação para que o Método dos
+Mínimos Quadrados, desenhado para retas, volte a ser aplicável; artifício
+de tratabilidade matemática, não descrição mais fiel da realidade
+subjacente.
 
 ## Conceito
 
