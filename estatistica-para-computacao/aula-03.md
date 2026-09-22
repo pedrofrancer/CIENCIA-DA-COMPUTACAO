@@ -1,4 +1,11 @@
-# Aula 03 — Probabilidade e variáveis aleatórias
+# Aula 03, o que poderia ter sido
+
+Todo evento carrega dentro de si a sombra dos eventos que não aconteceram.
+O espaço amostral formaliza algo que a intuição já suspeitava: o resultado
+observado é apenas uma entre múltiplas realizações possíveis de um mesmo
+processo gerador. A probabilidade clássica pressupõe equiprobabilidade,
+uma simetria que raramente se sustenta fora do laboratório idealizado do
+dado e da moeda.
 
 ## Objetivos
 
