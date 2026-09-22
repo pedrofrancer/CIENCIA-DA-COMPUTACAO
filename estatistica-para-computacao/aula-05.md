@@ -1,4 +1,11 @@
-# Aula 05 — Distribuição Normal (Gaussiana)
+# Aula 05, o sino que tudo absorve
+
+A normal ocupa posição central na estatística não por descrever a natureza
+com exatidão, mas por ser o ponto de convergência assintótico de somas de
+variáveis independentes, o Teorema do Limite Central. É um resultado sobre
+agregação, não sobre a essência dos fenômenos individuais; a maioria, sob
+condições suficientes, converge para o mesmo sino, enquanto os extremos
+raros seguem esquecidos nas caudas.
 
 ## Características
 
