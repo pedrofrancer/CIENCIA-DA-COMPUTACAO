@@ -1,4 +1,10 @@
-# Exemplos exponenciais de tempo médio entre falhas (MTBF)
+# Exemplos, a lembrança que a exponencial não guarda
+
+Cinco sistemas diferentes, disco, servidor, aplicação, sessão de usuário,
+fila de rede, obedecendo à mesma lei sem memória: o tempo já decorrido não
+pesa em nada sobre o tempo que falta. Há algo de consolo e de desespero
+nisso ao mesmo tempo, nenhum histórico de estabilidade garante a próxima
+hora, mas nenhuma sequência de falhas condena a próxima também.
 
 Fórmula de referência: λ = 1/MTBF. A distribuição exponencial não tem
 memória: o histórico decorrido não altera a probabilidade do tempo restante.
