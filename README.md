@@ -36,7 +36,6 @@ chamar isso de rigor.
 Material complementar:
 
 - [`exemplos-exponencial.md`](estatistica-para-computacao/exemplos-exponencial.md) — cinco problemas resolvidos de tempo médio entre falhas (MTBF).
-- [`trabalho-avaliativo.md`](estatistica-para-computacao/trabalho-avaliativo.md) — enunciado do trabalho avaliativo da disciplina.
 
 ## Sobre as issues
 
